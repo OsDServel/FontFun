@@ -1,0 +1,52 @@
+.script{
+	text-shadow: 3px 3px green;
+	font-size: 70px;
+	color: black;
+}
+.favorite{
+	background-color: purple;
+}
+
+#one{
+	font-family: 'Aladin', cursive;
+}
+#two{
+	font-family: 'Bad Script', cursive;
+}
+#three{
+	font-family: 'Lakki Reddy', cursive;
+}
+#four{
+	font-family: 'Freckle Face', cursive;
+}
+#five{
+	font-family: 'Fondamento', cursive;
+}
+#six{
+	font-family: 'Spicy Rice', cursive;
+}
+#seven{
+	font-family: 'UnifrakturMaguntia', cursive;
+}
+#eight{
+	font-family: 'Bilbo Swash Caps', cursive;
+}
+#nine{
+	font-family: 'Creepster', cursive;
+}
+#ten{
+	font-family: 'Princess Sofia', cursive;
+}
+#eleven{
+	font-family: 'Eater', cursive;
+}
+#twelve{
+	font-family: 'Mystery Quest', cursive;
+	color: magenta;
+}
+#thirteen{
+	font-family: 'Dorsa', sans-serif;
+} 
+#fourteen{
+	font-family: 'Nosifer', cursive;
+}
